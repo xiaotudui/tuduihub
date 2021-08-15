@@ -1,8 +1,8 @@
 module.exports = {
   siteMetadata: {
-    title: `Vhealth - Open source gatsby template`,
-    description: `Free website template for a health care startup.`,
-    author: `Shantanu Deshmukj`,
+    title: `土堆教程 - 保姆级别的入门教程`
+    description: `土堆教程，保姆级别的入门教程，带你轻松入门。`,
+    author: `土堆``,
   },
   plugins: [
     `gatsby-plugin-react-helmet`,
