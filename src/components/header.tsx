@@ -76,7 +76,7 @@ const Header = ({ companyName }: Props) => {
             color="inherit"
             className={classes.toolbarTitle}
           >
-            vHealth
+            土堆教程
           </Typography>
 
           <Hidden xsDown>
