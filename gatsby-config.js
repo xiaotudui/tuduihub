@@ -1,8 +1,8 @@
 module.exports = {
   siteMetadata: {
-    title: `土堆教程 - 保姆级别的入门教程`
+    title: `土堆教程 - 保姆级别的入门教程`,
     description: `土堆教程，保姆级别的入门教程，带你轻松入门。`,
-    author: `土堆``,
+    author: `土堆`,
   },
   plugins: [
     `gatsby-plugin-react-helmet`,
